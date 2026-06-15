@@ -1,0 +1,668 @@
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe.config
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.pdb
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.AssemblyReference.cache
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Properties.Resources.resources
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.GenerateResource.cache
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.exe
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.pdb
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryForm.resources
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryAdd.resources
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Stocks.resources
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.StockAdd.resources
+C:\Users\Sheila\source\repos\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryUpdate.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe.config
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.pdb
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MaterialSkin.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ZstdSharp.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.pdb
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.AssemblyReference.cache
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryAdd.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryUpdate.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Login.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.MainForm.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Properties.Resources.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.GenerateResource.cache
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CopyComplete
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.exe
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.pdb
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddBrand.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddCategory.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddSupplier.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Design.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.UpdateUser.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Staff.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Reset.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockIn.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AlertNotif.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\EnvDTE.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\stdole.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Report.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockInStaff.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Quantity.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.StaffProduct.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Discount.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Payment.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Receipt.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CancelOrder.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Certificate.resources
+C:\Users\johnr\Downloads\projects\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CertificateActive.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe.config
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.pdb
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MaterialSkin.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Design.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Fonts.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ZstdSharp.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\EnvDTE.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.pdb
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.AssemblyReference.cache
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddBrand.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddCategory.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddSupplier.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AlertNotif.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CancelOrder.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Certificate.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CertificateActive.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Discount.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryAdd.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryUpdate.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Login.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.MainForm.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Payment.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockIn.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockInStaff.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Properties.Resources.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Quantity.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Receipt.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Report.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Reset.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Staff.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.StaffProduct.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.UpdateUser.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.GenerateResource.cache
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CoreCompileInputs.cache
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inve.2F8EE1E8.Up2Date
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.exe
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.pdb
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\stdole.dll
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ForgotPassword.resources
+D:\CAPSTONE\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddOrder.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe.config
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.pdb
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MaterialSkin.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Design.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ZstdSharp.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\EnvDTE.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\stdole.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.pdb
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.AssemblyReference.cache
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddBrand.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddCategory.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddSupplier.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AlertNotif.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CancelOrder.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Certificate.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CertificateActive.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Discount.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ForgotPassword.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryAdd.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryUpdate.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Login.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.MainForm.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Payment.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockIn.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockInStaff.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Properties.Resources.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Quantity.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Receipt.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Report.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Reset.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Staff.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.StaffProduct.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.UpdateUser.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.GenerateResource.cache
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CopyComplete
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.exe
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.pdb
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe.config
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.pdb
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MaterialSkin.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Design.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Fonts.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ZstdSharp.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\EnvDTE.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\stdole.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.AssemblyReference.cache
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddBrand.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddCategory.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddSupplier.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AlertNotif.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CancelOrder.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Certificate.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CertificateActive.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Discount.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ForgotPassword.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryAdd.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryUpdate.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Login.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.MainForm.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Payment.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockIn.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockInStaff.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Properties.Resources.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Quantity.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Receipt.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Report.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Reset.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Staff.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.StaffProduct.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.UpdateUser.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.GenerateResource.cache
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CoreCompileInputs.cache
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inve.2F8EE1E8.Up2Date
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.exe
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.pdb
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierProduct.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditProduct.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddProduct.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditOrders.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierList.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SystemLock.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditOrdersStaff.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierListStaff.resources
+D:\Downloads\project\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Void.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddProduct.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditOrders.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditOrdersStaff.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditProduct.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierList.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierListStaff.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierProduct.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SystemLock.resources
+C:\Users\johnr\Downloads\projects\newprojims\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Void.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe.config
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.exe
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\RKS_Inventory.pdb
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MaterialSkin.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Design.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ZstdSharp.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\EnvDTE.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.pdb
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Google.Protobuf.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\MySql.Data.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Buffers.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Memory.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.AssemblyReference.cache
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddBrand.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddCategory.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddProduct.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AddSupplier.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.AlertNotif.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CancelOrder.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Certificate.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.CertificateActive.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Discount.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditOrders.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditOrdersStaff.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.EditProduct.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ForgotPassword.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryAdd.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.InventoryUpdate.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Login.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.MainForm.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Payment.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockIn.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.ProductStockInStaff.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Properties.Resources.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Quantity.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Receipt.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Report.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Reset.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Staff.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.StaffProduct.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierList.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierListStaff.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SupplierProduct.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.SystemLock.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.UpdateUser.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.Void.resources
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.GenerateResource.cache
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inve.2F8EE1E8.Up2Date
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.exe
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\obj\Debug\RKS_Inventory.pdb
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Legion\Downloads\RKS IMS\RKS IMS\RKS_Inventory\RKS_Inventory\bin\Debug\stdole.dll
