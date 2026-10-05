@@ -4,8 +4,9 @@ Capstone Project — A desktop-based Inventory and Sales Management System devel
 
 
 📸 Project Screenshots
-
+![Login](.vs/Picture1.jpg)
 ![Dashboard](.vs/Picture2.jpg)
+![Dashboard](.vs/Screenshot 2024-10-26 021927.jpg)
 
 🔐 Login & Authentication
 
