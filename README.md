@@ -3,16 +3,9 @@
 Capstone Project — A desktop-based Inventory and Sales Management System developed for RKS Motorcycle Parts and Accessories.
 
 
-
-
-
-
-
 📸 Project Screenshots
 
-Replace the sample images below with your actual system screenshots.
-
-Create a folder named screenshots in your repository, then place your images inside it using the suggested filenames.
+(.vs/Picture2.jpg)
 
 🔐 Login & Authentication
 
