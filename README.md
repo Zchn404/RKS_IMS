@@ -5,7 +5,22 @@ ________________________________________
 📸 Project Screenshots
 ![Login](.vs/Picture1.jpg)
 ![Dashboard](.vs/Picture2.jpg)
-![Dashboard](.vs/Login_Page_System.png)
+![Burger](.vs/Picture3.jpg)
+![Product](.vs/1.jpg)
+![Brand](.vs/2.jpg)
+![Category](.vs/3.jpg)
+![Stockin](.vs/Picture5.jpg)
+![Adjust](.vs/Picture6.jpg)
+![Supplier](.vs/4.jpg)
+![Delivery](.vs/5.jpg)
+![Delivery1](.vs/6.jpg)
+![Accounts](.vs/7.jpg)
+![Logs](.vs/8.jpg)
+![Staff](.vs/9.jpg)
+![Staff](.vs/Picture9.jpg)
+![Burger1](.vs/11.jpg)
+![Lock](.vs/12.jpg)
+![Sales](.vs/Picture10.jpg)
 
 🔐 Login & Authentication
 Secure login screen with role-based authentication for Admin and Staff users.
