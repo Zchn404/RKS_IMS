@@ -5,7 +5,7 @@ ________________________________________
 📸 Project Screenshots
 ![Login](.vs/Picture1.jpg)
 ![Dashboard](.vs/Picture2.jpg)
-![Dashboard](.vs/Screenshot 2024-10-26 022210.jpg)
+![Dashboard](.vs/Login_Page_System.png)
 
 🔐 Login & Authentication
 Secure login screen with role-based authentication for Admin and Staff users.
